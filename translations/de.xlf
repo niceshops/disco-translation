@@ -1,1 +1,52 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="NoName" source-language="de@formal" datatype="plaintext" target-language="de@formal">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="test.shop.frontend.additional_cost.fesh.text" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;">
+        <source><strong>Kühlversand:</strong> Für Kühlprodukte fallen zusätzliche Versandkosten von <strong>{price} pro Bestellung</strong> an.</source>
+        <target state="translated"><strong>Kühlversand:</strong> Für Kühlprodukte fallen zusätzliche Versandkosten von <strong>{price} pro Bestellung</strong> an.</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals" xml:space="preserve" id="test.shop.frontend.search.title.results.plural" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;"><trans-unit xml:space="preserve" approved="yes" id="test.shop.frontend.search.title.results.plural[0]">
+          <source>Ein Suchergebnis für "{keyword}"</source>
+          <target state="translated">Ein Suchergebnis für "{keyword}"</target>
+        </trans-unit>
+        <target>Ein Suchergebnis für "{keyword}"</target>
+        <trans-unit xml:space="preserve" approved="yes" id="test.shop.frontend.search.title.results.plural[1]">
+          <source>{count} Suchergebnisse für "{keyword}"</source>
+          <target state="translated">{count} Suchergebnisse für "{keyword}"</target>
+        </trans-unit>
+        <source>Ein Suchergebnis für "{keyword}"</source>
+      </group>
+      <trans-unit xml:space="preserve" approved="no" id="test.manual1" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;">
+        <source>Hello</source>
+        <target state="translated">Hello</target>
+      </trans-unit>
+      <group restype="x-gettext-plurals" xml:space="preserve" id="test.plural" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;"><trans-unit xml:space="preserve" approved="yes" id="test.plural[0]">
+          <source>Ein Test</source>
+          <target state="translated">Ein Test</target>
+        </trans-unit>
+        <target>Ein Test</target>
+        <trans-unit xml:space="preserve" approved="yes" id="test.plural[1]">
+          <source>Mehrere Tests</source>
+          <target state="translated">Mehrere Tests</target>
+        </trans-unit>
+        <source>Ein Test</source>
+      </group>
+      <group restype="x-gettext-plurals" xml:space="preserve" id="test.long_ltm_code.shop.wawi.info.deliverytime.cartitem.partly_in_stock_delivery_in_days_range.plural" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;" approved="yes"><trans-unit xml:space="preserve" approved="yes" id="test.long_ltm_code.shop.wawi.info.deliverytime.cartitem.partly_in_stock_delivery_in_days_range.plural[0]">
+          <source>{count} Stück versandbereit in {from} bis {to} Tagen.</source>
+          <target state="translated">{count} Stück versandbereit in {from} bis {to} Tagen.</target>
+        </trans-unit>
+        <target>{count} Stück versandbereit in {from} bis {to} Tagen.</target>
+        <trans-unit xml:space="preserve" approved="yes" id="test.long_ltm_code.shop.wawi.info.deliverytime.cartitem.partly_in_stock_delivery_in_days_range.plural[1]">
+          <source>{count} Stück versandbereit in {from} bis {to} Tagen.</source>
+          <target state="translated">{count} Stück versandbereit in {from} bis {to} Tagen.</target>
+        </trans-unit>
+        <source>{count} Stück versandbereit in {from} bis {to} Tagen.</source>
+      </group>
+      <trans-unit xml:space="preserve" approved="no" id="test.manual1_2" weblate-flags="ignore-reused, placeholders:r&quot;{[^}]+}&quot;, variant:Hello">
+        <source>Helllo2</source>
+        <target state="translated">Helllo2</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
